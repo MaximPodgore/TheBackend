@@ -1,0 +1,10 @@
+com\example\Main.class
+com\example\spring\dao\EmailDao.class
+com\example\spring\controller\EmailController.class
+com\example\spring\config\AppConfig.class
+com\example\spring\dao\EmailDaoImp.class
+com\example\spring\model\Email.class
+com\example\spring\config\MyWebAppInitializer.class
+com\example\spring\service\EmailServiceImp.class
+com\example\spring\config\WebConfig.class
+com\example\spring\service\EmailService.class
